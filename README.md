@@ -179,7 +179,7 @@ P4_timing_closure_45nm/
 ## Related Projects
 
 - **[P3b — RTL-to-GDSII on GSCLIB045 45 nm](https://github.com/Lomne22339/P3b-cadence-45nm-MAC)** — same MAC design, different library, closed at 200 MHz with WNS +45 ps post-route
-- **P3a — Synopsys DC 65 nm** *(github.com/Lomne22339/P3a-synopsys-dc-65nm)* — same RTL, Synopsys toolchain, cross-vendor comparison
+- **P3a — Synopsys DC 65 nm** *(https://github.com/Lomne22339/P3a-synopsys-dc-65nm)* — same RTL, Synopsys toolchain, cross-vendor comparison
 
 ---
 
