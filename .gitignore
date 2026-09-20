@@ -1,0 +1,14 @@
+*.log
+*.log[0-9]
+*.logv
+*.logv[0-9]
+.cmd
+*.rmi
+.rmi.
+.mmi_cache/
+tempus_clock_sweep.log
+tempus_iter1.log
+genus_iter1.log
+*.swp
+*~
+.DS_Store
